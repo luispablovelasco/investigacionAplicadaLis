@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Productos>
+    <Producto>
+        <Codigo>001</Codigo>
+        <Nombre>Caja lapiceros</Nombre>
+        <Marca>BIC</Marca>
+        <Descripcion>Caja de lapiceros Bic ideales para tomar apuntes y mas</Descripcion>
+        <Precio>5</Precio>
+        <Unidades>20</Unidades>
+    </Producto>
+    <Producto>
+        <Codigo>002</Codigo>
+        <Nombre>Silabario</Nombre>
+        <Marca>NORMA</Marca>
+        <Descripcion>Util para enseñanza a niños pequeños</Descripcion>
+        <Precio>2</Precio>
+        <Unidades>1</Unidades>
+    </Producto>
+    <Producto>
+        <Codigo>003</Codigo>
+        <Nombre>Caja de borradors </Nombre>
+        <Marca>STAEDTLER</Marca>
+        <Descripcion>Elimina errores escritos a lapiz</Descripcion>
+        <Precio>2.50</Precio>
+        <Unidades>5</Unidades>
+    </Producto>
+    <Producto>
+        <Codigo>004</Codigo>
+        <Nombre>Cuaderno</Nombre>
+        <Marca>ESCRIBE</Marca>
+        <Descripcion>Util para enseñanza a niños pequeños</Descripcion>
+        <Precio>2.50</Precio>
+        <Unidades>1</Unidades>
+    </Producto>
+    <Producto>
+        <Codigo>005</Codigo>
+        <Nombre>Páginas tipo Bond</Nombre>
+        <Marca>Grupo Roble</Marca>
+        <Descripcion>Resma de paginas tipo bond</Descripcion>
+        <Precio>2</Precio>
+        <Unidades>100</Unidades>
+    </Producto>
+    <Producto>
+        <Codigo>006</Codigo>
+        <Nombre>Pizarra blanca</Nombre>
+        <Marca>Utiles muy utiles</Marca>
+        <Descripcion>Utilizada para escribir ejemplos visibles 2.5mts x 5mts</Descripcion>
+        <Precio>25</Precio>
+        <Unidades>1</Unidades>
+    </Producto>
+</Productos>
